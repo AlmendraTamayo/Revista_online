@@ -538,25 +538,6 @@ body {
   font-weight: bold;
 }
 
-.newsletter {
-  width: 100%;
-  display: inline-block;
-}
-.newsletter__content {
-  text-align: center;
-  margin-bottom: 1rem;
-  width: 80%;
-  margin-left: 2rem;
-}
-.newsletter__content--size {
-  font-size: 1.6rem;
-  margin-bottom: 1rem;
-}
-.newsletter__content p {
-  font-size: 1rem;
-  font-weight: bold;
-}
-
 .footer {
   width: 100%;
   margin: 3rem auto 2rem auto;
